@@ -1,0 +1,22 @@
+{
+  "name": "binary-indexed-tree",
+  "version": "1.0.0",
+  "description": "Fenwick tree implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint"
+  },
+  "keywords": [
+    "binary",
+    "indexed",
+    "tree",
+    "fenwick"
+  ],
+  "author": "snakeful",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "jest": "^28.1.0"
+  }
+}
